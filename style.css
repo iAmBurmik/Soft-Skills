@@ -10,3 +10,8 @@ font-size: 20px;
 font-weight: bold;
 text-decoration: none;
 }
+
+p {
+    color:aqua;
+    font-weight: bold;
+}
